@@ -1,0 +1,10 @@
+
+Hello Cordelia,
+
+
+Your score on today's test Python Challenge could have been better.
+More studying, less vampire hunting!
+
+You achieved 85 out of 100 points!
+
+See you tomorrow.
