@@ -1,7 +1,10 @@
+{% from "helloworld.html" import render_helloWorld %}
+
 {% extends "base.html" %}
 
 {% block content %}
 <p>
     {{ body }}
+    {{ render_helloWorld(name) }}
 </p>
 {% endblock %}
